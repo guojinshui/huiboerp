@@ -1,0 +1,27 @@
+.addScroll {
+	overflow: scroll;
+	overflow-y: hidden;
+	overflow-x: hidden;
+}
+
+.removeScroll {
+	overflow: auto;
+}
+
+a {
+	text-decoration: none;
+}
+
+.loadDiv3 {
+	transition: background-color 1s;
+}
+
+@font-face {
+	font-family: YuanJian;
+	font: url('/source/myfont/文鼎特圆简.TTF');
+}
+
+@font-face {
+	font-family: ShanHu;
+	font: url('/source/myfont/珊瑚体.TTF');
+}
